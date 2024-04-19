@@ -25,11 +25,7 @@
                     <i class="align-middle" data-feather="book"></i> <span class="align-middle">Registrations</span>
                 </a>
             </li>
-            <li class="sidebar-item" id="template-menu">
-                <a class="sidebar-link" href="./template.php">
-                    <i class="align-middle" data-feather="book"></i> <span class="align-middle">Template</span>
-                </a>
-            </li>
+           
         </ul>
     </div>
 </nav>
